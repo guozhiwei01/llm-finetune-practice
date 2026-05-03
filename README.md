@@ -46,6 +46,8 @@
 | 训练速度 | 0.854 steps/s |
 | 样本吞吐 | 6.833 samples/s |
 
+![训练结果](images/01_full_training_result.png)
+
 ---
 
 ### 简历描述
